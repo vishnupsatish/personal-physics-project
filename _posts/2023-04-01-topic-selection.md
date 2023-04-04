@@ -2,7 +2,7 @@
 layout: post
 title:  Topic Selection
 categories: [Topic Selection]
-excerpt: .
+excerpt: The topic I've selected is the first one in the [Brainstorming](/brainstorming) post; I will be creating a machine that allows me to bat in cricket without the need of another person.
 ---
 
 The topic I've selected is the first one in the [Brainstorming](/brainstorming) post; I will be creating a machine that allows me to bat in cricket without the need of another person.
